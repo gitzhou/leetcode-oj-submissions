@@ -36,11 +36,5 @@ private:
 };
 
 // 
-// Given an array where elements are sorted in ascending order, convert it to a height balanced 
-// BST. 
-// Show 
-// Tags 
-// Tree 
-// Depth-first 
-// Search
+// Given an array where elements are sorted in ascending order, convert it to a height balanced BST. Show Tags Tree Depth-first Search
 // 
