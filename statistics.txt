@@ -1,6 +1,5 @@
 ============= Statistics ==============
-  Total Submissions:  216
-    Solved Problems:  99
-     Total Accepted:  109
-           AC Rates:  50.46%
+  Total Submissions:  0
+    Solved Problems:  0
+     Total Accepted:  0
 =======================================
