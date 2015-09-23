@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Remove Element
-// https://oj.leetcode.com/problems/remove-element/
+// https://leetcode.com/problems/remove-element/
 // 
 
 class Solution {
@@ -25,5 +25,5 @@ public:
 };
 
 // 
-// Given an array and a value, remove all instances of that value in place and return the new length. The order of elements can be changed. It doesn't matter what you leave beyond the new length. Show Tags Array Two Pointers
+// Given an array and a value, remove all instances of that value in place and return the new length. The order of elements can be changed. It doesn't matter what you leave beyond the new length. Show Tags Array Two Pointers Show Similar Problems (E) Remove Linked List Elements (E) Move Zeroes
 // 

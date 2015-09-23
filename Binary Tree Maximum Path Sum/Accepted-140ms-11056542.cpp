@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Binary Tree Maximum Path Sum
-// https://oj.leetcode.com/problems/binary-tree-maximum-path-sum/
+// https://leetcode.com/problems/binary-tree-maximum-path-sum/
 // 
 
 /**
@@ -46,9 +46,9 @@ private:
 };
 
 // 
-// Given a binary tree, find the maximum path sum. The path may start and end at any node in the tree. For example: Given the below binary tree, 
+// Given a binary tree, find the maximum path sum. For this problem, a path is defined as any sequence of nodes from some starting node to any node in the tree along the parent-child connections. The path does not need to go through the root. For example: Given the below binary tree, 
 //        1
 //       / \
 //      2   3
-//  Return 6. Show Tags Tree Depth-first Search
+//  Return 6. Show Tags Tree Depth-first Search Show Similar Problems (E) Path Sum (M) Sum Root to Leaf Numbers
 // 

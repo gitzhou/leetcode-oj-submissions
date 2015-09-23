@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Balanced Binary Tree
-// https://oj.leetcode.com/problems/balanced-binary-tree/
+// https://leetcode.com/problems/balanced-binary-tree/
 // 
 
 /**
@@ -43,5 +43,5 @@ private:
 };
 
 // 
-// Given a binary tree, determine if it is height-balanced. For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1. Show Tags Tree Depth-first Search
+// Given a binary tree, determine if it is height-balanced. For this problem, a height-balanced binary tree is defined as a binary tree in which the depth of the two subtrees of every node never differ by more than 1. Show Tags Tree Depth-first Search Show Similar Problems (E) Maximum Depth of Binary Tree
 // 

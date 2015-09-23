@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Symmetric Tree
-// https://oj.leetcode.com/problems/symmetric-tree/
+// https://leetcode.com/problems/symmetric-tree/
 // 
 
 /**

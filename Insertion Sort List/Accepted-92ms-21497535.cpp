@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Insertion Sort List
-// https://oj.leetcode.com/problems/insertion-sort-list/
+// https://leetcode.com/problems/insertion-sort-list/
 // 
 
 /**
@@ -49,5 +49,5 @@ public:
 };
 
 // 
-// Sort a linked list using insertion sort. Show Tags Linked List Sort
+// Sort a linked list using insertion sort. Show Tags Linked List Sort Show Similar Problems (M) Sort List
 // 

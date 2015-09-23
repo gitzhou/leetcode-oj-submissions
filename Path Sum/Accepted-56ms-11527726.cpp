@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Path Sum
-// https://oj.leetcode.com/problems/path-sum/
+// https://leetcode.com/problems/path-sum/
 // 
 
 /**
@@ -49,5 +49,5 @@ private:
 //           11  13  4
 //          /  \      \
 //         7    2      1
-//  return true, as there exist a root-to-leaf path 5->4->11->2 which sum is 22. Show Tags Tree Depth-first Search
+//  return true, as there exist a root-to-leaf path 5->4->11->2 which sum is 22. Show Tags Tree Depth-first Search Show Similar Problems (M) Path Sum II (H) Binary Tree Maximum Path Sum (M) Sum Root to Leaf Numbers
 // 

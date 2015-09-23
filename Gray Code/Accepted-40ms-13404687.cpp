@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Gray Code
-// https://oj.leetcode.com/problems/gray-code/
+// https://leetcode.com/problems/gray-code/
 // 
 
 class Solution {

@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Min Stack
-// https://oj.leetcode.com/problems/min-stack/
+// https://leetcode.com/problems/min-stack/
 // 
 
 class MinStack {
@@ -39,5 +39,5 @@ private:
 };
 
 // 
-// Design a stack that supports push, pop, top, and retrieving the minimum element in constant time. push(x) -- Push element x onto stack. pop() -- Removes the element on top of the stack. top() -- Get the top element. getMin() -- Retrieve the minimum element in the stack. Show Tags Stack Data Structure
+// Design a stack that supports push, pop, top, and retrieving the minimum element in constant time. push(x) -- Push element x onto stack. pop() -- Removes the element on top of the stack. top() -- Get the top element. getMin() -- Retrieve the minimum element in the stack. Show Tags Stack Design Show Similar Problems (H) Sliding Window Maximum
 // 

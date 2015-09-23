@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Remove Nth Node From End of List
-// https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/
+// https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 // 
 
 /**

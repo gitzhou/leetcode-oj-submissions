@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Word Search
-// https://oj.leetcode.com/problems/word-search/
+// https://leetcode.com/problems/word-search/
 // 
 
 class Solution {
@@ -62,5 +62,5 @@ private:
 //   ["SFCS"],
 //   ["ADEE"]
 // ]
-//  word = "ABCCED", -> returns true, word = "SEE", -> returns true, word = "ABCB", -> returns false. Show Tags Array Backtracking
+//  word = "ABCCED", -> returns true, word = "SEE", -> returns true, word = "ABCB", -> returns false. Show Tags Array Backtracking Show Similar Problems (H) Word Search II
 // 

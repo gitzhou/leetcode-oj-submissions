@@ -4,7 +4,7 @@
 # Contact Me: aaron67[AT]aaron67.cc
 # 
 # Duplicate Emails
-# https://oj.leetcode.com/problems/duplicate-emails/
+# https://leetcode.com/problems/duplicate-emails/
 # 
 
 # Write your MySQL query statement below

@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Fraction to Recurring Decimal
-// https://oj.leetcode.com/problems/fraction-to-recurring-decimal/
+// https://leetcode.com/problems/fraction-to-recurring-decimal/
 // 
 
 class Solution {

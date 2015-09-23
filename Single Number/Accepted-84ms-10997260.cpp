@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Single Number
-// https://oj.leetcode.com/problems/single-number/
+// https://leetcode.com/problems/single-number/
 // 
 
 class Solution {
@@ -19,5 +19,5 @@ public:
 };
 
 // 
-// Given an array of integers, every element appears twice except for one. Find that single one. Note: Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory? Show Tags Hash Table Bit Manipulation
+// Given an array of integers, every element appears twice except for one. Find that single one. Note: Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory? Show Tags Hash Table Bit Manipulation Show Similar Problems (M) Single Number II (M) Single Number III (M) Missing Number
 // 

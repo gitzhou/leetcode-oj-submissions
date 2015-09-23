@@ -4,7 +4,7 @@
 # Contact Me: aaron67[AT]aaron67.cc
 # 
 # Combine Two Tables
-# https://oj.leetcode.com/problems/combine-two-tables/
+# https://leetcode.com/problems/combine-two-tables/
 # 
 
 SELECT p.FirstName, p.LastName, a.City, a.State

@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Rotate Image
-// https://oj.leetcode.com/problems/rotate-image/
+// https://leetcode.com/problems/rotate-image/
 // 
 
 class Solution {

@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Minimum Depth of Binary Tree
-// https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/
+// https://leetcode.com/problems/minimum-depth-of-binary-tree/
 // 
 
 /**
@@ -45,5 +45,5 @@ private:
 };
 
 // 
-// Given a binary tree, find its minimum depth. The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node. Show Tags Tree Depth-first Search
+// Given a binary tree, find its minimum depth. The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node. Show Tags Tree Depth-first Search Breadth-first Search Show Similar Problems (E) Binary Tree Level Order Traversal (E) Maximum Depth of Binary Tree
 // 

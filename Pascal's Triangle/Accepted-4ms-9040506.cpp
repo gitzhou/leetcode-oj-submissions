@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Pascal's Triangle
-// https://oj.leetcode.com/problems/pascals-triangle/
+// https://leetcode.com/problems/pascals-triangle/
 // 
 
 class Solution {
@@ -39,5 +39,5 @@ public:
 //   [1,3,3,1],
 //  [1,4,6,4,1]
 // ]
-//  Show Tags Array
+//  Show Tags Array Show Similar Problems (E) Pascal's Triangle II
 // 

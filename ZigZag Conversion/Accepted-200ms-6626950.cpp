@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // ZigZag Conversion
-// https://oj.leetcode.com/problems/zigzag-conversion/
+// https://leetcode.com/problems/zigzag-conversion/
 // 
 
 class Solution {

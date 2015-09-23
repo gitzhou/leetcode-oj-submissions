@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Longest Consecutive Sequence
-// https://oj.leetcode.com/problems/longest-consecutive-sequence/
+// https://leetcode.com/problems/longest-consecutive-sequence/
 // 
 
 class Solution {

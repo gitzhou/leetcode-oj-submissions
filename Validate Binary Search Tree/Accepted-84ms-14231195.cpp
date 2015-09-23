@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Validate Binary Search Tree
-// https://oj.leetcode.com/problems/validate-binary-search-tree/
+// https://leetcode.com/problems/validate-binary-search-tree/
 // 
 
 /**
@@ -43,5 +43,5 @@ private:
 //    4
 //     \
 //      5
-//  The above binary tree is serialized as "{1,2,3,#,#,4,#,#,5}". Show Tags Tree Depth-first Search
+//  The above binary tree is serialized as "{1,2,3,#,#,4,#,#,5}". Show Tags Tree Depth-first Search Show Similar Problems (M) Binary Tree Inorder Traversal
 // 

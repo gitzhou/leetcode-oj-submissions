@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Remove Duplicates from Sorted List II
-// https://oj.leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+// https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 // 
 
 class Solution {

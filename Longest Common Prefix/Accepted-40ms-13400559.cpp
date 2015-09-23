@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Longest Common Prefix
-// https://oj.leetcode.com/problems/longest-common-prefix/
+// https://leetcode.com/problems/longest-common-prefix/
 // 
 
 class Solution {

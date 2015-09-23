@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Add Binary
-// https://oj.leetcode.com/problems/add-binary/
+// https://leetcode.com/problems/add-binary/
 // 
 
 class MinusCharZero {
@@ -68,5 +68,5 @@ public:
 };
 
 // 
-// Given two binary strings, return their sum (also a binary string). For example, a = "11" b = "1" Return "100". Show Tags Math String
+// Given two binary strings, return their sum (also a binary string). For example, a = "11" b = "1" Return "100". Show Tags Math String Show Similar Problems (M) Add Two Numbers (M) Multiply Strings (E) Plus One
 // 

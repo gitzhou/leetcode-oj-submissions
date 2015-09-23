@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Candy
-// https://oj.leetcode.com/problems/candy/
+// https://leetcode.com/problems/candy/
 // 
 
 class Solution {

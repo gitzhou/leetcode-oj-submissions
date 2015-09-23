@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Search a 2D Matrix
-// https://oj.leetcode.com/problems/search-a-2d-matrix/
+// https://leetcode.com/problems/search-a-2d-matrix/
 // 
 
 class Solution {
@@ -38,5 +38,5 @@ private:
 //   [10, 11, 16, 20],
 //   [23, 30, 34, 50]
 // ]
-//  Given target = 3, return true. Show Tags Array Binary Search
+//  Given target = 3, return true. Show Tags Array Binary Search Show Similar Problems (M) Search a 2D Matrix II
 // 

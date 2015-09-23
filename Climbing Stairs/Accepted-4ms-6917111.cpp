@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Climbing Stairs
-// https://oj.leetcode.com/problems/climbing-stairs/
+// https://leetcode.com/problems/climbing-stairs/
 // 
 
 class Solution {

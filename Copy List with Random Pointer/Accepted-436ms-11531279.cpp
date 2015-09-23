@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Copy List with Random Pointer
-// https://oj.leetcode.com/problems/copy-list-with-random-pointer/
+// https://leetcode.com/problems/copy-list-with-random-pointer/
 // 
 
 /**
@@ -55,5 +55,5 @@ public:
 };
 
 // 
-// A linked list is given such that each node contains an additional random pointer which could point to any node in the list or null. Return a deep copy of the list. Show Tags Hash Table Linked List
+// A linked list is given such that each node contains an additional random pointer which could point to any node in the list or null. Return a deep copy of the list. Show Tags Hash Table Linked List Show Similar Problems (M) Clone Graph
 // 

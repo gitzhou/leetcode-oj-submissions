@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Excel Sheet Column Number
-// https://oj.leetcode.com/problems/excel-sheet-column-number/
+// https://leetcode.com/problems/excel-sheet-column-number/
 // 
 
 class Solution {
@@ -30,5 +30,5 @@ private:
 //     ...
 //     Z -> 26
 //     AA -> 27
-//     AB -> 28 Credits: Special thanks to @ts for adding this problem and creating all test cases. Show Tags Math
+//     AB -> 28 Credits: Special thanks to @ts for adding this problem and creating all test cases. Show Tags Math Show Similar Problems (E) Excel Sheet Column Title
 // 

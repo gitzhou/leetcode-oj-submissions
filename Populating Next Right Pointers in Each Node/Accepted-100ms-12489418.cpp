@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Populating Next Right Pointers in Each Node
-// https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/
+// https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
 // 
 
 /**
@@ -51,5 +51,5 @@ public:
 //       2 -> 3 -> NULL
 //      / \  / \
 //     4->5->6->7 -> NULL
-//  Show Tags Tree Depth-first Search
+//  Show Tags Tree Depth-first Search Show Similar Problems (H) Populating Next Right Pointers in Each Node II (M) Binary Tree Right Side View
 // 

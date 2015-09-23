@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Max Points on a Line
-// https://oj.leetcode.com/problems/max-points-on-a-line/
+// https://leetcode.com/problems/max-points-on-a-line/
 // 
 
 /**

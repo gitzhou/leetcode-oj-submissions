@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Implement strStr()
-// https://oj.leetcode.com/problems/implement-strstr/
+// https://leetcode.com/problems/implement-strstr/
 // 
 
 class Solution {
@@ -54,5 +54,5 @@ private:
 };
 
 // 
-// Implement strStr(). Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack. Update (2014-11-02): The signature of the function had been updated to return the index instead of the pointer. If you still see your function signature returns a char * or String, please click the reload button to reset your code definition. Show Tags Two Pointers String
+// Implement strStr(). Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack. Update (2014-11-02): The signature of the function had been updated to return the index instead of the pointer. If you still see your function signature returns a char * or String, please click the reload button to reset your code definition. Show Tags Two Pointers String Show Similar Problems (H) Shortest Palindrome
 // 

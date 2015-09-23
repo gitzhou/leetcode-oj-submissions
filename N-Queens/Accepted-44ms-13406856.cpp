@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // N-Queens
-// https://oj.leetcode.com/problems/n-queens/
+// https://leetcode.com/problems/n-queens/
 // 
 
 class Solution {
@@ -69,5 +69,5 @@ private:
 //   "...Q",
 //   ".Q.."]
 // ]
-//  Show Tags Backtracking
+//  Show Tags Backtracking Show Similar Problems (H) N-Queens II
 // 

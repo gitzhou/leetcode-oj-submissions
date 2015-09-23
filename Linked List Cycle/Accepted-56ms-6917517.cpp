@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Linked List Cycle
-// https://oj.leetcode.com/problems/linked-list-cycle/
+// https://leetcode.com/problems/linked-list-cycle/
 // 
 
 /**
@@ -36,5 +36,5 @@ public:
 };
 
 // 
-// Given a linked list, determine if it has a cycle in it. Follow up: Can you solve it without using extra space? Show Tags Linked List Two Pointers
+// Given a linked list, determine if it has a cycle in it. Follow up: Can you solve it without using extra space? Show Tags Linked List Two Pointers Show Similar Problems (M) Linked List Cycle II
 // 

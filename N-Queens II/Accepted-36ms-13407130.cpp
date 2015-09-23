@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // N-Queens II
-// https://oj.leetcode.com/problems/n-queens-ii/
+// https://leetcode.com/problems/n-queens-ii/
 // 
 
 class Solution {
@@ -46,5 +46,5 @@ public:
 };
 
 // 
-// Follow up for N-Queens problem. Now, instead outputting board configurations, return the total number of distinct solutions. Show Tags Backtracking
+// Follow up for N-Queens problem. Now, instead outputting board configurations, return the total number of distinct solutions. Show Tags Backtracking Show Similar Problems (H) N-Queens
 // 

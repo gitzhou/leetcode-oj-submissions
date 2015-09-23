@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Pascal's Triangle II
-// https://oj.leetcode.com/problems/pascals-triangle-ii/
+// https://leetcode.com/problems/pascals-triangle-ii/
 // 
 
 class Solution {
@@ -38,5 +38,5 @@ public:
 };
 
 // 
-// Given an index k, return the kth row of the Pascal's triangle. For example, given k = 3, Return [1,3,3,1]. Note: Could you optimize your algorithm to use only O(k) extra space? Show Tags Array
+// Given an index k, return the kth row of the Pascal's triangle. For example, given k = 3, Return [1,3,3,1]. Note: Could you optimize your algorithm to use only O(k) extra space? Show Tags Array Show Similar Problems (E) Pascal's Triangle
 // 

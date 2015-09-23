@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Find Peak Element
-// https://oj.leetcode.com/problems/find-peak-element/
+// https://leetcode.com/problems/find-peak-element/
 // 
 
 class Solution {

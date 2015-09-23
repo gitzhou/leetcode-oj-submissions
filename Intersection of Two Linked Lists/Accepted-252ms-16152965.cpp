@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Intersection of Two Linked Lists
-// https://oj.leetcode.com/problems/intersection-of-two-linked-lists/
+// https://leetcode.com/problems/intersection-of-two-linked-lists/
 // 
 
 /**

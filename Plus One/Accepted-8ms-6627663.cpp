@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Plus One
-// https://oj.leetcode.com/problems/plus-one/
+// https://leetcode.com/problems/plus-one/
 // 
 
 class Solution {
@@ -26,5 +26,5 @@ public:
 };
 
 // 
-// Given a non-negative number represented as an array of digits, plus one to the number. The digits are stored such that the most significant digit is at the head of the list. Show Tags Array Math
+// Given a non-negative number represented as an array of digits, plus one to the number. The digits are stored such that the most significant digit is at the head of the list. Show Tags Array Math Show Similar Problems (M) Multiply Strings (E) Add Binary
 // 

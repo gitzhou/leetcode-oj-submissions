@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Largest Number
-// https://oj.leetcode.com/problems/largest-number/
+// https://leetcode.com/problems/largest-number/
 // 
 
 class Comparator {

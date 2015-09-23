@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Same Tree
-// https://oj.leetcode.com/problems/same-tree/
+// https://leetcode.com/problems/same-tree/
 // 
 
 /**

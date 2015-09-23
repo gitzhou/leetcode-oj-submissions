@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Construct Binary Tree from Preorder and Inorder Traversal
-// https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+// https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 // 
 
 /**
@@ -47,5 +47,5 @@ private:
 };
 
 // 
-// Given preorder and inorder traversal of a tree, construct the binary tree. Note: You may assume that duplicates do not exist in the tree. Show Tags Tree Array Depth-first Search
+// Given preorder and inorder traversal of a tree, construct the binary tree. Note: You may assume that duplicates do not exist in the tree. Show Tags Tree Array Depth-first Search Show Similar Problems (M) Construct Binary Tree from Inorder and Postorder Traversal
 // 

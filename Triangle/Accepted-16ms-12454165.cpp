@@ -4,7 +4,7 @@
 // Contact Me: aaron67[AT]aaron67.cc
 // 
 // Triangle
-// https://oj.leetcode.com/problems/triangle/
+// https://leetcode.com/problems/triangle/
 // 
 
 class Solution {
